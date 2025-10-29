@@ -2,6 +2,12 @@
 
 A production-ready React application demonstrating Docker multi-stage build optimization.
 
+## 🖼️ Output
+
+![App Screenshot](./OUTPUT/output_1.png)
+
+---
+
 ## Features
 
 - ✅ Multi-stage Docker build
