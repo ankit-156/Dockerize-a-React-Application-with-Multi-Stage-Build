@@ -12,23 +12,6 @@ A production-ready React application demonstrating Docker multi-stage build opti
 - ✅ React Router support
 - ✅ Docker Compose ready
 
-## Prerequisites
-
-- Docker installed on your machine
-- Docker Compose (optional)
-
-
-## Multi-Stage Build Explained
-
-### Stage 1: Build
-- Uses Node.js 18 Alpine image
-- Installs dependencies
-- Builds the React application
-
-### Stage 2: Production
-- Uses Nginx Alpine image
-- Copies only the built files
-- Configured for optimal performance
 
 ## Benefits
 
